@@ -1,4 +1,4 @@
-# Programing-Portfolio-2015
-All of the programs i wrote in my programing class
+# programing-porfolio
+This is wear ill put all my programs i will write in my high school programing class
 
-my name is william, yeah
+dude excellent  
